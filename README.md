@@ -1,4 +1,4 @@
-# Design, Provision and Monitor AWS Infrastructure at Scale
+# Design, Provision and Monitor AWS Infrastructure at Scale .
 In this project, I plan, design, provision, and monitor infrastructure in AWS using industry-standard and open source tools. I practice the skills I have learned throughout the Udacity Cloud Architect course to optimize infrastructure for cost and performance. I also use Terraform to provision and configure AWS services in a global configuration.
 
 ## Task 1: Create AWS Architecture Schematics
