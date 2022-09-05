@@ -1,8 +1,8 @@
 # Designate a cloud provider, region, and credentials
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA2VTVKYJEU5WFDLZF"
-  secret_key = "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"
+  access_key = "************"
+  secret_key = "************"
 }
 
 resource "aws_instance" "udacity_M4" {
